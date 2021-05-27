@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Clone of Facebook using REACT
+
+## Tech used in this Facebook clone build 
+1. React + React Hooks
+2. React COntext API 
+3. Material UI
+4. Firebase ( Firestore realtime DB, Hosting and Google Authentication )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
